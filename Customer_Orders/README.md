@@ -1,4 +1,4 @@
-
+# Interactive Customer Orders Dashboard
 
 Customer Info and Order Info data used to create an interactive Dashboard. 
 Cleaned and Analyzed the customer data and their respective orders. Created an interactive dashboard which provides all the details of any particular customer.
